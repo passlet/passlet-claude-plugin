@@ -1,0 +1,14 @@
+{
+  "name": "passlet",
+  "description": "Passlet plugin for Claude Code, published by Passlet.",
+  "owner": {
+    "name": "Passlet",
+    "url": "https://passlet.io"
+  },
+  "plugins": [
+    {
+      "name": "passlet",
+      "source": "./"
+    }
+  ]
+}

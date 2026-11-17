@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Passlet",
+    "url": "https://passlet.io"
+  },
+  "description": "Create, design and issue Apple Wallet and Google Wallet passes. Build branded digital membership cards, loyalty cards, event tickets and season passes; preview designs, publish reusable templates, personalize passes, share add-to-wallet links and update issued passes in your Passlet workspace.",
+  "displayName": "Passlet",
+  "documentationUrl": "https://docs.passlet.io",
+  "homepage": "https://passlet.io",
+  "icon": "./assets/icon.png",
+  "keywords": [
+    "apple wallet",
+    "google wallet",
+    "apple wallet pass creation",
+    "google wallet pass creation",
+    "digital wallet passes",
+    "wallet pass creator",
+    "wallet pass design",
+    "pass templates",
+    "membership cards",
+    "digital membership cards",
+    "loyalty cards",
+    "event tickets",
+    "season passes",
+    "branded passes",
+    "personalized passes",
+    "qr code passes",
+    "pass issuance",
+    "pass updates",
+    "add to wallet"
+  ],
+  "license": "Apache-2.0",
+  "name": "passlet",
+  "privacyPolicyUrl": "https://www.passlet.io/privacy-policy",
+  "repository": "https://github.com/passlet/passlet-claude-plugin",
+  "supportUrl": "https://www.passlet.io/contact",
+  "termsOfServiceUrl": "https://www.passlet.io/terms-conditions",
+  "version": "0.1.3"
+}

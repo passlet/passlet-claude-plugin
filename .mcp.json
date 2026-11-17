@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "passlet": {
+      "oauth": {
+        "scopes": "openid profile email offline_access templates:read templates:write passes:read passes:write"
+      },
+      "type": "http",
+      "url": "https://mcp.passlet.io/mcp"
+    }
+  }
+}
