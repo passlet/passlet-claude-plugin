@@ -31,7 +31,7 @@ Add this repository as a plugin marketplace, then install the plugin:
 
 ## Connection and data
 
-You need a Passlet account (sign up at https://passlet.io). This plugin runs no local code. Its skills use the Passlet MCP server at https://mcp.passlet.io/mcp over HTTPS. On first use, sign in to Passlet, choose a workspace and approve the requested permissions (`openid`, `profile`, `email`, `offline_access`, `templates:read`, `templates:write`, `passes:read`, `passes:write`). Claude then reads and changes that workspace's templates, passes and projects through the server, limited by your role and the permissions you approved. Text, images and pass details you give Claude for a design or pass are sent to Passlet to create or update them in that workspace. Revoke access at any time under **Settings → Connected apps** in the Passlet console.
+You need a Passlet account (sign up at https://app.passlet.io/signup?utm_source=github&utm_medium=plugin&utm_campaign=claude-plugin). This plugin runs no local code. Its skills use the Passlet MCP server at https://mcp.passlet.io/mcp over HTTPS. On first use, sign in to Passlet, choose a workspace and approve the requested permissions (`openid`, `profile`, `email`, `offline_access`, `templates:read`, `templates:write`, `passes:read`, `passes:write`). Claude then reads and changes that workspace's templates, passes and projects through the server, limited by your role and the permissions you approved. Text, images and pass details you give Claude for a design or pass are sent to Passlet to create or update them in that workspace. Revoke access at any time under **Settings → Connected apps** in the Passlet console.
 
 - Website: https://passlet.io
 - Documentation: https://docs.passlet.io
